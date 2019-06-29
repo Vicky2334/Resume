@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #88e8f7;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.5;
+
+}
+
+.name {
+    margin: 50px 0 0px;
+    padding: 20px 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    color: #4F6CFF;
+}
+
+a {
+    text-decoration: none;
+    color: #4F6CFF;
+}
+
+a:hover {
+    color: mediumvioletred;
+}
+
+.position {
+    font-family: 'Tangerine', cursive;
+    color: grey;
+    font-weight: 300;
+    font-size: 3rem;
+    font-style: oblique;
+}
+
+#mountain-img {
+    margin: 0;
+    width: 100%;
+}
+
+.right-cloud {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    left: 90px;
+}
+
+.left-cloud {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    right: 130px;
+    bottom: 380px;
+}
+
+.intro {
+    margin: 0;
+    padding: 50px;
+    background-color: azure;
+}
+
+.my-img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.hello {
+    width: 400px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 1.7rem;
+    color: #8e8e8e;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #6b6b6b;
+}
+
+hr {
+    border: dotted #babcbc 8px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 3%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.skills {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.small-img{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.small-img1{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 20px;
+    padding-left: 0;
+    margin-left: 0;
+    
+}
+
+.footer {
+    margin: 0;
+    padding: 20px;
+    background-color: #4dabf7;
+    font-size: 30px;
+    height: 100px;
+}
+
+.social {
+    color: snow;
+    display: inline-block;
+    padding: 20px;
+    padding: 0 50px;
+}
+
+.social:hover {
+    color: grey;
+}
+
+i {
+    padding: 10px;
+}
+
+.copy-rights {
+    text-decoration: none;
+    color: snow;
+    padding: 10px;
+    margin-bottom: 0;
+    font-size: 20px;
+    
+}
